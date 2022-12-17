@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vaibhav</h1>
+<h1 align="center">Hi 👋, I'm Vaibhav Pawar</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 
 - 👀 I’m interested in **Android Application Development**
