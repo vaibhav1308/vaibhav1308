@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in **Android Application Development**
 
-- 🔭 I’m currently working on **Cypheron Java App**
+- 👩‍💻 I’m currently working on **Cypheron Java App**
 
 - 🌱 I’m currently learning **Java, Python & Database**
 
