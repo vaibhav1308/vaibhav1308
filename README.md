@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Pawar</h1>
 <h3 align="center">A passionate software developer from India.</h3>
 
-- 👀 I’m interested in **Android Application Development**
+- 👀 I’m interested in **Web Development**
 
-- 👩‍💻 I’m currently working on **Cypheron Java App**
+- 👩‍💻 I’m currently working on **DotNET Web App**
 
-- 🌱 I’m currently learning **Java, Python & Database**
+- 🌱 I’m currently learning **JavaScript, .NET & Database**
 
 
 <p align="left">
